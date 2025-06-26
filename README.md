@@ -7,8 +7,8 @@
 
 ```
 
-git clone https://github.com/SIAM-T/BurpSuite-Pro-free.git
-cd BurpSuite-Pro-free
+git clone https://github.com/SIAM-T/burpsuite.git
+cd burpsuite
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git axel openjdk-21-jre openjdk-22-jre openjdk-23-jre -y
